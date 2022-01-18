@@ -3,6 +3,6 @@
     <apiVersion>53.0</apiVersion>
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
-    <description>Spring22 - Blitz testing</description>
-    <label>DestructiveChange</label>
+    <description>Spring22 - blitz testing</description>
+    <label>New1</label>
 </ApexPage>
