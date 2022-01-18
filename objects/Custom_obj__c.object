@@ -155,9 +155,9 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>New1__c</fullName>
+        <fullName>Delete1__c</fullName>
         <externalId>false</externalId>
-        <label>New1</label>
+        <label>Delete1</label>
         <length>10</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
