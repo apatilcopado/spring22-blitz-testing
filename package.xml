@@ -14,9 +14,5 @@
         <members>NOTNEEDED__c</members>
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>Custom_obj__c-Custom obj Layout</members>
-        <name>Layout</name>
-    </types>
     <version>53.0</version>
 </Package>
